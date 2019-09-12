@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565457560484.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "57A4A86D",
+    "lastKnownWriteTime" : 122076384,
+    "last_content_update" : 1565457560484,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "7631f484d11940b6b371503ee851e642",
+        "name" : "s3d",
+        "title" : "s3d"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
